@@ -99,7 +99,7 @@ F2 = (1 + 2²) × (Precision × Recall) / (2² × Precision + Recall)
 ---
 
 ## 📁 Dataset Description
-
+Untuk mendapatkan hasil analisis dan machine learning yang lebih memadai, kami mencoba mencari data tambahan yang bersumber dari link di bawah, sehingga kami menggunakan 2 sumber data yang akan digunakan pada project ini
 **Source:** 
 - [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - [HuggingFace - Telco Customer Churn](https://huggingface.co/datasets/aai510-group1/telco-customer-churn)
