@@ -60,6 +60,25 @@ dapat dimanfaatkan untuk mengenali pola perilaku pelanggan yang berisiko churn.
 - Pemetaan distribusi churn menggunakan **Folium heatmap**
 - Identifikasi top cities dengan churn tertinggi
 
+  
+**Fokus Contract and Services:**
+- Analisis hubungan contract type dengan churn rate.
+- Identifikasi bahwa month-to-month contract memiliki churn tertinggi.
+- Analisis pengaruh internet service type terhadap churn (fiber optic vs DSL vs no internet).
+- Evaluasi dampak service add-ons (TechSupport, OnlineSecurity, OnlineBackup, DeviceProtection).
+- Identifikasi bahwa TechSupport dan OnlineSecurity menurunkan churn signifikan.
+- Analisis kombinasi contract + service untuk menemukan segmen berisiko tinggi.
+
+  
+**Fokus Monetary:**
+- Analisis hubungan monthly charges dengan churn.
+- Identifikasi bahwa pelanggan churn memiliki biaya bulanan lebih tinggi.
+- Analisis total revenue dan CLTV antara pelanggan churn dan non-churn.
+- Identifikasi bahwa pelanggan churn memiliki nilai jangka panjang lebih rendah.
+- Analisis total refunds sebagai indikator ketidakpuasan sebelum churn.
+- Evaluasi perilaku transaksi melalui payment method dan paperless billing.
+
+  
 ### 3. **Machine Learning Modeling**
 - Binary classification problem (churn vs non-churn)
 - Algoritma: Logistic Regression, Decision Tree, Random Forest, XGBoost
