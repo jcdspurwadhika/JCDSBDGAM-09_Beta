@@ -309,7 +309,7 @@ F2 = (1 + 2²) × (Precision × Recall) / (2² × Precision + Recall)
 
 Project ini merupakan kolaborasi tim untuk Final Project Purwadhika Data Science Program yaitu:
 Muhammad Zulfan Alghifari JCDSBDGAM-009-005 (zulfanghifari29@gmail.com)
-Hashfi Putraza Hikmat JCDSBDGAM-009-002 (hashfiputrazah@gmail.com)
+Hashfi Putraza Hikmat JCDSBDGAM-09-001 (hashfiputrazah@gmail.com)
 Muhamad Wildan Trisianly JCDS-0808-006 (wildan.trisianly@gmail.com)
 
 ---
